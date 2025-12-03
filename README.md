@@ -137,3 +137,5 @@ Auth/login system
 Pagination
 
 Done!
+
+/home/avik/Pictures/Screenshots/Screenshot from 2025-12-03 11-15-35.png
